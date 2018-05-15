@@ -1,3 +1,3 @@
-L.cc core
+LCC core
 ===========================
-[http://L.cc](http://l.cc)
+[http://lcc.cm](http://Lcc.cm)
